@@ -1,11 +1,8 @@
 package Java;
 class Main {
     public static void main(String[] args) {
-        System.out.println("dlfdfld");
-
-        Car car1 = new Car();
-        car1.id = 2;
-        car1.license = "DFGDGF";
+        
+        Car car1 = new Car("GHFG21",new Account("driver", "345df"));
         car1.pintDataCar();
     }
 
