@@ -3,6 +3,7 @@
         "./Python"
     ],
     "python.analysis.extraPaths": [
+        "./Python",
         "./Python"
     ],
 }
